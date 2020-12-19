@@ -37,7 +37,3 @@
   <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=mahtab2&hide=php&theme=radical&layout=compact" />
 </a>
 </div>
-
-
-[linkedin]: https://www.linkedin.com/feed/
-[mail]: mailto:sarlak3@gmail.com
